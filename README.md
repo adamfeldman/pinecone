@@ -1,6 +1,6 @@
 # PushPin
 
-[A collaborative corkboard app.](http://inkandswitch.github.io/pushpin)
+[A collaborative corkboard app.](https://automerge.github.io/pushpin/)
 
 [Join our Slack to ask questions, share ideas, or meet other users!](https://communityinviter.com/apps/automerge/automerge)
 
